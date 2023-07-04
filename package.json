@@ -1,0 +1,25 @@
+{
+  "name": "quicklog",
+  "version": "1.0.0",
+  "description": "easy generate console log for function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skrahat/quickLog.git"
+  },
+  "author": "asaduzzaman rahat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skrahat/quickLog/issues"
+  },
+  "homepage": "https://github.com/skrahat/quickLog#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "typescript": "^5.1.6"
+  }
+}
