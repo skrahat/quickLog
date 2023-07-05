@@ -17,7 +17,7 @@ describe('quickLog', () => {
     wrappedFunction('test', 123, true);
 
     // Verify that the console.log function was called with the expected arguments
-    expect(consoleLogSpy).toHaveBeenCalledTimes(3);
+    expect(consoleLogSpy).toHaveBeenCalledTimes(2);
     expect(consoleLogSpy).toHaveBeenNthCalledWith(
       1,
       'Parameters: Param1: string, "test", Param2: number, 123, Param3: boolean, true'
