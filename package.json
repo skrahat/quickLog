@@ -1,5 +1,5 @@
 {
-  "name": "@quicklog",
+  "name": "quicklog",
   "version": "1.0.0",
   "description": "easy generate console log for function",
   "main": "src/index.ts",
